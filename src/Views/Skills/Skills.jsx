@@ -25,6 +25,7 @@ const Skills = (props) => {
             textAlign: 'center'
         }}>
             <h1>Here are some things I know how to use and have worked with</h1>
+            <h2>I'm curious if this git push will work</h2>
             <Grid
                 container
                 spacing={24}
